@@ -1,4 +1,4 @@
-# Air Cargo Analysis — SQL Capstone Project
+# Air Cargo Analysis - SQL Capstone Project
 
 An end-to-end SQL analytics project exploring air cargo operations, customer patterns, and route performance using MySQL 8.0
 
