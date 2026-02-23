@@ -5,7 +5,7 @@ An end-to-end SQL analytics project exploring air cargo operations, customer pat
 ## Overview
 
 This project provides a detailed SQL-based analysis of air cargo operations, focusing on route performance, customer spending, and stored procedure–based summaries.  
-It demonstrates core SQL skills — database creation, complex queries, joins, views, and procedural logic — executed in MySQL Workbench.
+It demonstrates core SQL skills - database creation, complex queries, joins, views, and procedural logic — executed in MySQL Workbench.
 
 ---
 
